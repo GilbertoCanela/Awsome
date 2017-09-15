@@ -1,0 +1,96 @@
+body{
+	background-image: url("../Images/carFlags3.png");
+
+}
+
+.content{
+	width: 80%;
+	height: 250vh;
+	background-color: black;
+	margin: 0 auto;
+	border: 5px double gray;
+
+}
+
+h2{
+	text-align: center;
+}
+
+p, a, h1, h2, h3{
+	color: white;
+}
+
+#menuBar{
+	background-color: black;
+	width: 100%;
+}
+
+#banner{
+	width: 100%;
+}
+
+a{
+	margin-right: 20px;
+}
+
+.menuIco{
+	height: 20px;
+}
+
+#chart{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.titles{
+	background-color: gray;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+/**
+.par{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.par p{
+	color: black;
+	text-align: center;
+}
+*/
+.Donate{
+	background-color: blue;
+
+}
+
+.Donate :hover{
+	height: 100%;
+	width: 100%;
+	background-color: red;
+	/*background-image: url("../Images/carFlags3.png");*/
+}
+
+h4{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+#form{
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+}
+
+#blue{
+	{
+    height:200px;
+    font-size:14pt;
+}
+
+}
